@@ -8,9 +8,11 @@
               <div class="single-footer-widget section_padding_0_130">
                 <!-- Footer Logo-->
                 <div class="footer-logo mb-3"></div>
-                <h3>MySchool</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, ipsam.
-                </p>
+                <h3>SMKN 2 KARANGANYAR</h3>
+                <p>JL Jend Gatot Subroto</p>
+                <p>RT 011 RW006</p>
+                <p>Beningrejo,Gaum,Tasikmadu</p>
+                <p>Karanganyar</p>
                 <!-- Copywrite Text-->
                 <div class="copywrite-text mb-5">
                   <p class="mb-0">Designed <i class="lni-heart mr-1"></i>by<a class="ml-1" href="#">BootstrapMade</a></p>
@@ -27,11 +29,11 @@
                 <!-- Footer Menu-->
                 <div class="footer_menu">
                   <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Teacher</a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Gallery</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="http://127.0.0.1:8000/home#">Home</a></li>
+                    <li><a href="http://127.0.0.1:8000/guru#">About Teacher</a></li>
+                    <li><a href="http://127.0.0.1:8000/berita#">News</a></li>
+                    <li><a href="http://127.0.0.1:8000/galeri#">Gallery</a></li>
+                    <li><a href="http://127.0.0.1:8000/kontak#">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
